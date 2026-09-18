@@ -1,0 +1,30 @@
+PERSONAL MINI-TOOLKIT PLAN
+
+1. Simple Calculator
+The calculator performs basic addition, subtraction, multiplication, and division.
+
+2. To-Do List
+The to-do list allows the user to add, show, and remove tasks while the program is running.
+
+3. Number Checker
+The number checker asks for a number and determines whether it is positive, negative, or zero.
+
+4. Countdown
+The countdown tool asks for a starting number and uses a loop to count down to zero.
+
+MENU TEXT
+
+===== PERSONAL MINI-TOOLKIT =====
+1. Simple Calculator
+2. To-Do List
+3. Number Checker
+4. Countdown
+5. Quit
+What would you like to use? 
+
+CONCEPTS USED
+
+1. Simple Calculator: input, variables, conditionals, f-strings.
+2. To-Do List: input, lists, loops, conditionals, f-strings.
+3. Number Checker: input, variables, conditionals, f-strings.
+4. Countdown: input, variables, loops, conditionals, f-strings.
