@@ -1,6 +1,7 @@
 print("Welcome to my Personal Mini-Toolkit!")
 
 
+# Performs basic arithmetic calculations using two numbers.
 def calculator():
     print("\n===== SIMPLE CALCULATOR =====")
     num1 = float(input("Enter first number: "))
@@ -22,6 +23,7 @@ def calculator():
         print("Invalid operator.")
 
 
+# Allows the user to add, remove, and view items in a to-do list.
 def todo_list():
     items = []
 
@@ -59,6 +61,7 @@ def todo_list():
             print("Invalid choice. Please try again.")
 
 
+# Checks whether a number is positive, negative, zero, even, or odd.
 def number_checker():
     print("\n===== NUMBER CHECKER =====")
     number = int(input("Enter a number: "))
@@ -76,6 +79,7 @@ def number_checker():
         print("The number is odd.")
 
 
+# Counts down from a user-provided number to 1.
 def countdown():
     print("\n===== COUNTDOWN =====")
     number = int(input("Enter a number to count down from: "))
